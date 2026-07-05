@@ -29,7 +29,7 @@ A responsive front-end clone of Spotify built using HTML and CSS. This project r
 
 ## Preview
 
-![Project screenshot](image.png)
+![Project screenshot](./assets/spotify.png)
 
 ## 👨‍💻 Author
 
